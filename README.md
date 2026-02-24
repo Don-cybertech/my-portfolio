@@ -56,6 +56,26 @@ Designed and deployed a virtualized cybersecurity lab environment using VirtualB
 - Deployed vulnerable machines (Metasploitable)
 - Practiced scanning, enumeration, and exploitation techniques
 - Conducted vulnerability assessments in a controlled lab
+- 
+  ### The Attacks Tested are as Follows:
+I tested/discovered potential attack surfaces by:
+
+**1. Host discovery (finding live hosts in the lab network)**
+Tools Used:
+arp-scan
+netdiscover
+nmap -sn
+Purpose:
+To identify active hosts without interacting aggressively with services.
+📌 Key Insight:
+Even simple discovery scans can reveal network topology and potential targets. Attackers rarely start with exploitation — they begin with mapping the environment.
+
+**2. Port scanning and service enumeration**
+After identifying the target IP, deeper enumeration was conducted to discover open ports and running services.
+Commands Used:
+nmap -sV --top-ports 1000 <TARGET_IP>
+nmap -A <TARGET_IP>
+nmap -sC -sV <TARGET_IP>
 
 ---
 
@@ -191,15 +211,6 @@ Junior Security Engineer
 
 I would love to connect and discuss how I can add value to your security team.
 
-📩 Email: yourprofessionalemail@email.com
-
-🔗 LinkedIn: linkedin.com/in/yourprofile
-
-
-## 🎯 Career Objective
-
-To contribute to organizations by strengthening security posture, detecting threats early, and implementing proactive cybersecurity measures.
-
 ---
 
 ## 📫 Let's Connect
@@ -218,36 +229,7 @@ I believe cybersecurity is not just about tools — it's about mindset, vigilanc
 
 
 
-# my-portfolio
-Don Achema
-
-Cybersecurity Analyst | SOC Analyst (Aspiring) | Blue Team Enthusiast | Python Developer
-
-🔐 Entry-Level Cybersecurity Analyst with hands-on experience in threat detection, network traffic analysis, phishing simulation, and Python-based security tools. Passionate about defensive security, incident response, and building secure environments through practical lab simulations.
-
-📍 Nigeria
-📧 yourprofessionalemail@email.com
-
-🔗 LinkedIn: linkedin.com/in/yourprofile
-
-🛡️ Core Competencies
-
-Network Traffic Analysis (TCP/IP, DNS, HTTP)
-
-Packet Capture & Deep Inspection
-
-Phishing Simulation & Email Security
-
-Vulnerability Scanning & Lab Exploitation
-
-Incident Response Fundamentals
-
-Log Analysis & Threat Investigation
-
-Python Scripting & Security Automation
-
-Virtualized Lab Deployment
-
+# my
 🔥 Featured Projects
 🧪 Cybersecurity Home Lab (Attack & Defense Simulation)
 
@@ -457,7 +439,7 @@ These scans identify exploitable services but do not exploit them — they simul
 Critical: vsftpd 2.3.4 backdoor (CVSS 10.0) — allows unauthenticated root shell if triggered
 High/Critical: Samba issues (e.g., potential remote code execution, symlink traversal)
 High: Apache-related directory traversal, info disclosure
-Others: Outdated software, weak configs, exposed services
+Others: Outdated software, weak configs, exposed services 
 
 ## Lessons to learn from this are:
 Here are the key lessons we can draw from it:
