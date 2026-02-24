@@ -1,4 +1,211 @@
+
+
 # my-portfolio
+Don Achema
+
+Cybersecurity Analyst | SOC Analyst (Aspiring) | Blue Team Enthusiast | Python Developer
+
+🔐 Entry-Level Cybersecurity Analyst with hands-on experience in threat detection, network traffic analysis, phishing simulation, and Python-based security tools. Passionate about defensive security, incident response, and building secure environments through practical lab simulations.
+
+📍 Nigeria
+📧 yourprofessionalemail@email.com
+
+🔗 LinkedIn: linkedin.com/in/yourprofile
+
+🛡️ Core Competencies
+
+Network Traffic Analysis (TCP/IP, DNS, HTTP)
+
+Packet Capture & Deep Inspection
+
+Phishing Simulation & Email Security
+
+Vulnerability Scanning & Lab Exploitation
+
+Incident Response Fundamentals
+
+Log Analysis & Threat Investigation
+
+Python Scripting & Security Automation
+
+Virtualized Lab Deployment
+
+🔥 Featured Projects
+🧪 Cybersecurity Home Lab (Attack & Defense Simulation)
+
+Environment: VirtualBox | Kali Linux | Metasploitable | Windows VM | Wireshark
+
+Built a fully isolated virtual cybersecurity lab to simulate real-world enterprise attack scenarios.
+
+Key Achievements:
+
+Configured segmented internal network environments
+
+Conducted vulnerability testing and exploitation practice
+
+Captured and analyzed malicious traffic using packet inspection
+
+Practiced system isolation and basic incident response procedures
+
+Investigated suspicious IP activity and internal vs external traffic behavior
+
+Skills Demonstrated:
+
+Network security • Threat simulation • Traffic analysis • Incident handling • Blue team workflow
+
+🌐 Network Traffic Analysis with Wireshark
+
+Performed live packet capture and deep protocol analysis to identify suspicious activity patterns.
+
+Activities:
+
+Filtered DNS, TCP, HTTP traffic
+
+Identified source and destination IP patterns
+
+Analyzed handshake processes
+
+Investigated abnormal packet behavior
+
+Skills Demonstrated:
+
+Packet analysis • Protocol inspection • Network troubleshooting • Threat detection fundamentals
+
+🎯 Phishing Simulation Lab (GoPhish)
+
+Deployed and configured a phishing simulation platform to understand social engineering attack vectors and email-based threats.
+
+Activities:
+
+Configured SMTP mail server settings
+
+Designed phishing email templates
+
+Launched controlled phishing campaigns
+
+Analyzed campaign success metrics
+
+Skills Demonstrated:
+
+Email security • Social engineering awareness • Security testing • User risk assessment
+
+🐍 Python Security Projects
+🔢 Simple Calculator (Python CLI)
+
+Built a command-line calculator implementing:
+
+Arithmetic operations
+
+Input validation
+
+Error handling
+
+Clean function structure
+
+Demonstrates core Python logic and structured programming.
+
+🔐 Secure Password Generator
+
+Developed a customizable password generator that:
+
+Generates strong random passwords
+
+Includes uppercase, lowercase, digits, and symbols
+
+Allows dynamic length selection
+
+Demonstrates:
+Randomization • String manipulation • Secure coding fundamentals
+
+🧰 Technical Toolkit
+🔐 Security Tools
+
+Wireshark
+
+GoPhish
+
+Kali Linux
+
+Metasploitable
+
+VirtualBox
+
+🖥️ Operating Systems
+
+Windows
+
+Linux (Kali)
+
+💻 Programming
+
+Python (Automation & CLI tools)
+
+🌐 Networking Knowledge
+
+TCP/IP
+
+DNS
+
+HTTP
+
+Basic Network Segmentation
+
+📈 Currently Expanding Skills
+
+SIEM (Splunk / Wazuh)
+
+Log Correlation & Alert Investigation
+
+Threat Intelligence Analysis
+
+Advanced Python for Security Automation
+
+SOC Playbooks & Incident Documentation
+
+🎯 Career Objective
+
+To secure an entry-level SOC Analyst position where I can apply hands-on lab experience, packet analysis skills, and defensive security knowledge to detect, analyze, and respond to cyber threats in real-world environments.
+
+📊 Why Recruiters Should Consider Me
+
+✔ Hands-on practical lab experience
+✔ Defensive security mindset
+✔ Familiar with SOC workflows
+✔ Strong analytical thinking
+✔ Continuously learning and building
+✔ Demonstrated ability to self-train and simulate enterprise environments
+
+🤝 Let’s Connect
+
+If you're hiring for:
+
+SOC Analyst (Tier 1)
+
+Cybersecurity Analyst
+
+Junior Security Engineer
+
+I would love to connect and discuss how I can add value to your security team.
+
+📩 Email: yourprofessionalemail@email.com
+
+🔗 LinkedIn: linkedin.com/in/yourprofile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Hi, I'm Don Achema 👋
 
 ## 🛡 About Me
