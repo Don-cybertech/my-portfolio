@@ -52,12 +52,10 @@ My goal is to continuously improve system security, reduce vulnerabilities, and 
 Designed and deployed a virtualized cybersecurity lab environment using VirtualBox and Kali Linux.
 
 **Key Features:**
-- Configured isolated virtual networks
-- Deployed vulnerable machines (Metasploitable)
-- Practiced scanning, enumeration, and exploitation techniques
-- Conducted vulnerability assessments in a controlled lab
-  
-testing and exploitation practice
+Configured isolated virtual networks 
+Deployed vulnerable machines (Metasploitable)
+Practiced scanning, enumeration, and exploitation techniques
+Conducted vulnerability assessments in a controlled lab
 
 Captured and analyzed malicious traffic using packet inspection
 
@@ -114,13 +112,12 @@ Analyzed campaign success metrics
 
 ---
 
-🐍 Python Security Projects
+### 🐍 Python Security Projects
 
-### 🔢 Simple Calculator (Python CLI)
+**🔢 Simple Calculator (Python CLI):**
 Built a command-line calculator implementing:
 
 **Concepts Used:**
-
 - Arithmetic operations
 - Input validation
 - Error handling
@@ -185,7 +182,7 @@ HTTP
 
 Basic Network Segmentation
 
-📈 Currently Expanding Skills
+### 📈 Currently Expanding Skills
 
 SIEM (Splunk / Wazuh)
 
@@ -197,11 +194,11 @@ Advanced Python for Security Automation
 
 SOC Playbooks & Incident Documentation
 
-🎯 Career Objective
+### 🎯 Career Objective
 
 To secure an entry-level SOC Analyst position where I can apply hands-on lab experience, packet analysis skills, and defensive security knowledge to detect, analyze, and respond to cyber threats in real-world environments.
 
-📊 Why Recruiters Should Consider Me
+### 📊 Why Recruiters Should Consider Me
 
 ✔ Hands-on practical lab experience
 ✔ Defensive security mindset
@@ -210,9 +207,7 @@ To secure an entry-level SOC Analyst position where I can apply hands-on lab exp
 ✔ Continuously learning and building
 ✔ Demonstrated ability to self-train and simulate enterprise environments
 
-🤝 Let’s Connect
-
-If you're hiring for:
+### 🤝 If you're hiring for:
 
 SOC Analyst (Tier 1)
 
@@ -238,8 +233,6 @@ I believe cybersecurity is not just about tools — it's about mindset, vigilanc
 
 
 
- 
-
 
 
 ## 📂 Projects
@@ -247,86 +240,3 @@ I believe cybersecurity is not just about tools — it's about mindset, vigilanc
 - [Python Port Scanner](link)
 - [Log Analysis Automation](link)
 
-## 📫 Contact
-Email: donatusachema@gmail.com
-LinkedIn: www.linkedin.com/in/egwu-donatus-achema-8a9251378
-🔹 3. What Projects Should You Post?
-
-Since you're in cybersecurity, here are strong project ideas:
-
-How you set up Kali Linux
-
-Metasploitable lab
-
-VirtualBox setup
-
-Screenshots
-
-What attacks you tested
-
-Lessons learned
-
-Recruiters LOVE this.
-
-🐍 2. Python Security Tools
-
-Examples:
-
-Port scanner
-
-Password strength checker
-
-Log analyzer
-
-Brute-force simulation (educational)
-
-Structure:
-
-project-folder/
-│
-├── main.py
-├── README.md
-└── requirements.txt
-
-Your README should explain:
-
-What it does
-
-How to run it
-
-Screenshot of output
-
-🌐 
-
-Explain:
-
-The problem
-
-The tool used (e.g., Nmap, Wireshark)
-
-Output screenshots
-
-What you discovered
-
-🔹 4. How to Write a Strong Project README
-
-Use this format:
-
-# Project Name
-
-## 📌 Description
-Brief explanation of what this project does.
-
-## ⚙ Tools Used
-- Python
-- Nmap
-- Wireshark
-
-## 🚀 How to Run
-Step-by-step instructions.
-
-## 📊 Sample Output
-(screenshot here)
-
-## 🎯 What I Learned
-Explain what this project taught you.
