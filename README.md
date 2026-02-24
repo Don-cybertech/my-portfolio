@@ -1,3 +1,221 @@
+# Hi, I'm Don Achema 👋
+
+🔐 Cybersecurity Analyst | 💻 Information Technologist  
+📍 Nigeria  
+🛡 Passionate about Defensive Security, Threat Analysis & Security Automation  
+
+---
+
+## 👨‍💻 Professional Summary
+
+I am a cybersecurity analyst with hands-on experience building security labs, analyzing network traffic, conducting phishing simulations, and developing security-focused Python tools.  
+
+I specialize in threat detection, vulnerability analysis, and building practical security solutions through lab environments and scripting.
+
+My goal is to continuously improve system security, reduce vulnerabilities, and contribute to safer digital environments.
+
+---
+
+## 🔐 Core Cybersecurity Skills
+
+- Network Traffic Analysis
+- Vulnerability Scanning
+- Phishing Simulation & Awareness Testing
+- Log Analysis
+- Security Lab Deployment
+- Incident Investigation (Basic)
+- Risk Awareness & Mitigation
+
+---
+
+## 🛠 Tools & Technologies
+
+### Security Tools
+- Wireshark
+- Gophish
+- Nmap
+- Kali Linux
+- VirtualBox
+- Metasploitable
+
+### Programming & Scripting
+- Python
+- Bash (Basic)
+- Linux CLI
+- Windows Environment
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 Cybersecurity Home Lab
+Designed and deployed a virtualized cybersecurity lab environment using VirtualBox and Kali Linux.
+
+**Key Features:**
+- Configured isolated virtual networks
+- Deployed vulnerable machines (Metasploitable)
+- Practiced scanning, enumeration, and exploitation techniques
+- Conducted vulnerability assessments in a controlled lab
+
+---
+
+### 📡 Network Traffic Analysis with Wireshark
+Captured and analyzed live network traffic using Wireshark.
+
+**What I Did:**
+- Packet capture and filtering
+- Identified suspicious traffic patterns
+- Analyzed TCP handshake processes
+- Inspected DNS and HTTP traffic
+- Studied network attack indicators
+
+---
+
+### 🎣 Phishing Simulation with Gophish
+Deployed and configured Gophish to simulate phishing campaigns for awareness training.
+
+**Skills Demonstrated:**
+- Campaign setup and management
+- Email template customization
+- Landing page creation
+- Result tracking and reporting
+- Security awareness evaluation
+
+---
+
+🐍 Python Security Projects
+
+### 🔢 Simple Calculator (Python CLI)
+Built a command-line calculator implementing:
+
+**Concepts Used:**
+
+- Arithmetic operations
+- Input validation
+- Error handling
+- Clean function structure
+
+Demonstrates: core Python logic and structured programming.
+
+---
+
+### 🔑 Password Generator (Python)
+Built a secure password generator to create strong randomized passwords.
+
+**Features:**
+- Custom password length selection
+- Combination of letters, numbers, and symbols
+- Randomized secure output
+- Input validation
+Demonstrates:
+Randomization • String manipulation • Secure coding fundamentals
+  
+
+---
+
+## 📚 Currently Improving
+
+- Advanced SIEM & Log Analysis
+- Threat Hunting Techniques
+- Blue Team Operations
+- Python Automation for Security
+- Cloud Security Fundamentals
+
+---
+🔐 Security Tools
+
+Wireshark
+
+GoPhish
+
+Kali Linux
+
+Metasploitable
+
+VirtualBox
+
+🖥️ Operating Systems
+
+Windows
+
+Linux (Kali)
+
+💻 Programming
+
+Python (Automation & CLI tools)
+
+🌐 Networking Knowledge
+
+TCP/IP
+
+DNS
+
+HTTP
+
+Basic Network Segmentation
+
+📈 Currently Expanding Skills
+
+SIEM (Splunk / Wazuh)
+
+Log Correlation & Alert Investigation
+
+Threat Intelligence Analysis
+
+Advanced Python for Security Automation
+
+SOC Playbooks & Incident Documentation
+
+🎯 Career Objective
+
+To secure an entry-level SOC Analyst position where I can apply hands-on lab experience, packet analysis skills, and defensive security knowledge to detect, analyze, and respond to cyber threats in real-world environments.
+
+📊 Why Recruiters Should Consider Me
+
+✔ Hands-on practical lab experience
+✔ Defensive security mindset
+✔ Familiar with SOC workflows
+✔ Strong analytical thinking
+✔ Continuously learning and building
+✔ Demonstrated ability to self-train and simulate enterprise environments
+
+🤝 Let’s Connect
+
+If you're hiring for:
+
+SOC Analyst (Tier 1)
+
+Cybersecurity Analyst
+
+Junior Security Engineer
+
+I would love to connect and discuss how I can add value to your security team.
+
+📩 Email: yourprofessionalemail@email.com
+
+🔗 LinkedIn: linkedin.com/in/yourprofile
+
+
+## 🎯 Career Objective
+
+To contribute to organizations by strengthening security posture, detecting threats early, and implementing proactive cybersecurity measures.
+
+---
+
+## 📫 Let's Connect
+
+- GitHub: https://github.com/yourusername
+- LinkedIn: (Add your LinkedIn link)
+- Email: (Add professional email)
+
+---
+
+
+## ⚡ Fun Fact
+
+I believe cybersecurity is not just about tools — it's about mindset, vigilance, and continuous learning.
+
+
 
 
 # my-portfolio
@@ -118,78 +336,6 @@ Demonstrates:
 Randomization • String manipulation • Secure coding fundamentals
 
 🧰 Technical Toolkit
-🔐 Security Tools
-
-Wireshark
-
-GoPhish
-
-Kali Linux
-
-Metasploitable
-
-VirtualBox
-
-🖥️ Operating Systems
-
-Windows
-
-Linux (Kali)
-
-💻 Programming
-
-Python (Automation & CLI tools)
-
-🌐 Networking Knowledge
-
-TCP/IP
-
-DNS
-
-HTTP
-
-Basic Network Segmentation
-
-📈 Currently Expanding Skills
-
-SIEM (Splunk / Wazuh)
-
-Log Correlation & Alert Investigation
-
-Threat Intelligence Analysis
-
-Advanced Python for Security Automation
-
-SOC Playbooks & Incident Documentation
-
-🎯 Career Objective
-
-To secure an entry-level SOC Analyst position where I can apply hands-on lab experience, packet analysis skills, and defensive security knowledge to detect, analyze, and respond to cyber threats in real-world environments.
-
-📊 Why Recruiters Should Consider Me
-
-✔ Hands-on practical lab experience
-✔ Defensive security mindset
-✔ Familiar with SOC workflows
-✔ Strong analytical thinking
-✔ Continuously learning and building
-✔ Demonstrated ability to self-train and simulate enterprise environments
-
-🤝 Let’s Connect
-
-If you're hiring for:
-
-SOC Analyst (Tier 1)
-
-Cybersecurity Analyst
-
-Junior Security Engineer
-
-I would love to connect and discuss how I can add value to your security team.
-
-📩 Email: yourprofessionalemail@email.com
-
-🔗 LinkedIn: linkedin.com/in/yourprofile
 
 
 
