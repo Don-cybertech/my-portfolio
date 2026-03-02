@@ -115,7 +115,7 @@ Analyzed campaign success metrics
 ### 🐍 Python Security Projects
 
 **🔢 Simple Calculator (Python CLI):**
-Built a command-line calculator implementing:
+Built a command-line calculator demostrating logic building, functions and input validation.
 
 **Concepts Used:**
 - Arithmetic operations
@@ -136,7 +136,9 @@ Built a secure password generator to create strong randomized passwords.
 - Randomized secure output
 - Input validation
 Demonstrates:
-Randomization • String manipulation • Secure coding fundamentals
+Randomization 
+String manipulation 
+Secure coding fundamentals
   
 
 ---
@@ -222,7 +224,7 @@ I would love to connect and discuss how I can add value to your security team.
 ## 📫 Let's Connect
 
 - GitHub: https://github.com/Don-cybertech 
-- LinkedIn: www.linkedin.com/in/egwu-donatus-achema-8a9251378
+- LinkedIn: https://www.linkedin.com/in/egwu-donatus-achema-achema-8a9251378/
 - Email: donatusachema@gmail.com 
 ---
 
