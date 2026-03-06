@@ -151,6 +151,15 @@ Secure coding fundamentals
 - Python Automation for Security
 - Cloud Security Fundamentals
 
+**🧾Certifications:**
+-Introduction to cybersecurity issued by Cisco
+-Networking basics issued by Cisco
+-Networking devices and intial configuration issued by Cisco
+-Endpoint Security issued by Cisco
+-Introduction to IoT issued by Cisco
+-Cyber thrreat management issued by Cisco
+-Artificial Intelligence Fundamentals issued by IBM
+
 ---
 🔐 Security Tools
 
