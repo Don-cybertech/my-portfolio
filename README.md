@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a cybersecurity analyst with hands-on experience building security labs, analyzing network traffic, conducting phishing simulations, and developing security-focused Python tools.  
+I am a cybersecurity analyst with experience in building security labs, analyzing network traffic, conducting phishing simulations, and developing security-focused Python tools.  
 
 I specialize in threat detection, vulnerability analysis, and building practical security solutions through lab environments and scripting.
 
