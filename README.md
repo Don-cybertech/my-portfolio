@@ -153,15 +153,21 @@ Secure coding fundamentals
 
 **🧾Certifications:**
 -Introduction to cybersecurity issued by Cisco
+
 -Networking basics issued by Cisco
+
 -Networking devices and intial configuration issued by Cisco
+
 -Endpoint Security issued by Cisco
+
 -Introduction to IoT issued by Cisco
+
 -Cyber thrreat management issued by Cisco
+
 -Artificial Intelligence Fundamentals issued by IBM
 
 ---
-🔐 Security Tools
+# 🔐 Security Tools
 
 Wireshark
 
@@ -199,7 +205,7 @@ SIEM (Splunk / Wazuh)
 
 Log Correlation & Alert Investigation
 
-Threat Intelligence Analysis
+Threat Intelligence Analysis1
 
 Advanced Python for Security Automation
 
@@ -233,7 +239,7 @@ I would love to connect and discuss how I can add value to your security team.
 ## 📫 Let's Connect
 
 - GitHub: https://github.com/Don-cybertech 
-- LinkedIn: https://www.linkedin.com/in/egwu-donatus-achema-achema-8a9251378/
+- LinkedIn: https://www.linkedin.com/in/egwu-donatus-achema-8a9251378/
 - Email: donatusachema@gmail.com 
 ---
 
@@ -250,4 +256,5 @@ I believe cybersecurity is not just about tools — it's about mindset, vigilanc
 - [SIEM Home Lab](link)
 - [Python Port Scanner](link)
 - [Log Analysis Automation](link)
+- 
 
